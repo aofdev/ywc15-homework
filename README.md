@@ -3,7 +3,7 @@
 > ywc15 Programming Homework Project
 
 <p align="center">
-  <img src ="https://i.imgur.com/O5AKOhZ.png" />
+  <img src ="https://i.imgur.com/O5AKOhZ.png"/>
 </p>
 
 ## Features
@@ -15,8 +15,8 @@
 - Support Progressive Web App
 - Lighthouse score of 80+/100
 - Lazy Loading in Vue Components,Router
-- Preload with preload-webpack-plugin
-- Design with Vuetify Material Component Framework
+- Preload with [preload-webpack-plugin](https://github.com/GoogleChrome/preload-webpack-plugin)
+- Design with [Vuetify](https://vuetifyjs.com) Material Component Framework
 
 ## Build Setup
 
